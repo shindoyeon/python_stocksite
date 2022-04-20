@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/jdk/jdk1.8.0_201/bin:/opt/hadoop-2.8.0/bin:/opt/hadoop-2.8.0/sbin:/opt/jdk/jdk1.8.0_201
+* * * * * bash /home/hadoop/tmp/crawling.sh > /home/hadoop/tmp/crawling.sh.log 2&1
+
